@@ -21,6 +21,8 @@
 **/*.dbmdl
 **/*.jfm
 **/bin
+**/include
+**/lib
 **/charts
 **/docker-compose*
 **/compose.y*ml
